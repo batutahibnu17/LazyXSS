@@ -1,1 +1,2 @@
 # LazyXSS
+Akan di update
